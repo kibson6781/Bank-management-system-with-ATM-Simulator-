@@ -15,6 +15,8 @@
 # Mini Statement
 ![Screenshot_20240919_090509_YouTube](https://github.com/user-attachments/assets/60933dca-80be-4beb-b7c4-0a57ff2dfc03)
 
+# Bank-management-system-with-ATM-Simulator
+
 The Bank Management System, specifically the ATM Simulator, is a comprehensive application designed to streamline various banking operations. Here’s a brief overview of its key components:
 
 1. **Core Functionality**: The system allows users to perform essential banking tasks such as opening accounts, generating mini statements, changing PINs, and simulating ATM transactions. This functionality aims to improve operational efficiency and enhance user experience.
